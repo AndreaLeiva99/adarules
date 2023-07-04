@@ -1,0 +1,6 @@
+1)git init: inicia el proceso
+se crea una carpeta oculta , inicia el proceso de inicio
+2)git status:
+nos va a mostrar si hay archivos subidos
+
+
